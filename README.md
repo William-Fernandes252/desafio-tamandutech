@@ -1,6 +1,6 @@
 # Desafio-Tamandutech
 
-Desafio para processo seletivo da Tamandutech.
+Desafio para o processo seletivo da Tamandutech.
 
 ### Localização dos desafios:
 
